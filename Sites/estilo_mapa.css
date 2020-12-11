@@ -1,0 +1,42 @@
+/*
+Estilo, debe ser modificado al final
+
+*/
+
+
+#mapid {
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+
+input[type=text] {
+	position: relative;
+	left: 30px;
+}
+input[type=date] {
+	position: relative;
+	left: 30px;
+}
+input[type=number] {
+	position: relative;
+	left: 30px;
+}
+input[type=button] {
+	position: relative;
+	left: 30px;
+}
+
+
+label{
+	position: relative;
+	left: -30px;
+}
+label.id_ID{
+	position: relative;
+	left: 0px;
+}
+
+input[type=reset]{
+	position: relative;
+	top: 30px;
+}
